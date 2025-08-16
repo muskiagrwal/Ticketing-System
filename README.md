@@ -1,11 +1,6 @@
 # A self hosted support ticketing software build with Nextjs + Supabase.
 
 
-## Demo
-
-You can test client side here → https://support.helpin.so & just signup with real email address.
-
-## How to setup on vercel
 
 ### Setup Supabase Tables
 
